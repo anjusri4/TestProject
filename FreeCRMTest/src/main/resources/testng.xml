@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="FaceBookSuite">
+<test name="Facebooktest">
+<classes>
+<class name="com.fbook.testclasses.LoginPageTest"></class>
+<class name="com.fbook.testclasses.CreatePageTest"></class>
+<class name="com.fbook.testclasses.ForgottenAcctPageTest"></class>
+</classes>
+</test>
+</suite>
